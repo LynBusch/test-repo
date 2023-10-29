@@ -1,2 +1,2 @@
-testdir/ @LynBusch
-makama/ @rdavilardavila
+/testdir/ @LynBusch
+/makama/**/testdir @rdavilardavila
